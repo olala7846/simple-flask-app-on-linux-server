@@ -1,4 +1,6 @@
 # Linux Server Configuration
+IP address: 54.69.86.196
+webpage url: http://ec2-54-69-86-196.us-west-2.compute.amazonaws.com/
 
 ### 1. User management
 #### Create new **grader** as user as suoder
@@ -114,3 +116,10 @@ CLIENT_ID = json.loads(open(CLIENT_SECRET_PATH, 'r').read())['web']['client_id']
 * Reason: Storing the whole credential object in session works on my machine but not on the server.
 * Solution: Instead of storing credential in login_session, store access_token instead 
 
+## Third party resource
+Lots of help from the internet and I don't really remember all. but mostly from the following websites
+
+1. Udacity forum
+2. Stack overflow
+3. Google
+4. Digital Ocean
