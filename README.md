@@ -1,4 +1,7 @@
 # Linux Server Configuration
+This project is the configuration detail of deploying a Flask app on linux server from scratch. Also this is my HW of Udacity nanodegree project 5, so be careful if you want to do solve the problems yourself :)
+
+### IP Address
 IP address: 54.69.86.196
 webpage url: http://ec2-54-69-86-196.us-west-2.compute.amazonaws.com/
 
